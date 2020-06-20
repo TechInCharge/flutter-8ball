@@ -1,19 +1,20 @@
 
 # Magic 8 Ball 🎱
 
-## Our Goal
+## AppBrewery Course app
 
 This is a sample app, learned as an exmaple from appbrewery.co course.
 Even though it is from the course, but the code has been completly written from scratch.
 
 
-## What you will create
+## What did we create
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+The App is design to answer randmoly your questions, so basically you ask a question, then click on the ball, and the ball will give you a random answer.
+Below is the finished APP from my emulator. 
+ 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+![Finished App](https://github.com/TechInCharge/flutter-8ball/blob/8Ball/8Ball.gif)
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+If you want to learn how to create flutter apps you can check out The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
