@@ -1,11 +1,10 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # Magic 8 Ball 🎱
 
 ## Our Goal
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+This is a sample app, learned as an exmaple from appbrewery.co course.
+Even though it is from the course, but the code has been completly written from scratch.
 
 
 ## What you will create
